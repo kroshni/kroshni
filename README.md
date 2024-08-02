@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roshni (kroshni)
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python, Machine Learning
+- 🌱 I’m currently learning Python, Django
 - 📫 Email: roshniprajapati96@gmail.com
 
 <!---
